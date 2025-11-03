@@ -1,0 +1,11 @@
+# Binaries and object files
+[Bb]in/
+[Oo]bj/
+
+# NuGet packages
+*.nupkg
+
+# VS Code / Visual Studio Files
+.vs/
+*.user
+*.suo
